@@ -1,5 +1,5 @@
 # Note Taker
-
+![Screenshot](public/assets/photos/note-taker-preview.png "Screenshot")
 ## Description
 
 This is a note taking app that allows to you write notes, save them, and also delete them. 
